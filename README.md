@@ -4,5 +4,5 @@ blueGreen-rollout
 
 Canary-rollout
 ![2](https://github.com/user-attachments/assets/e308b29d-74e2-4ab1-a0da-2e582c9cbc99)
-![Uploading Capture3.PNG…]()
+![Capture3](https://github.com/user-attachments/assets/22f11b51-4915-4fc0-af2a-80e317d99792)
 
